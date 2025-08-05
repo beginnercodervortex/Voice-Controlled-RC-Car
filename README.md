@@ -1,7 +1,5 @@
 #  Voice-Controlled RC Car
-This project demonstrates foundational skills in embedded systems, mobile-to-hardware communication, and rapid prototyping using low-cost components. It features a minimal, efficient hardware setup and simple code logic, making it ideal for scalable IoT applications or beginner robotics projects.
-
-This project demonstrates the seamless integration of IoT microcontrollers with mobile apps. Built using NodeMCU, motor driver, and MIT App Inventor shows how human-robot communication doesn't need to be complicated whatsoever.
+This project demonstrates foundational skills in embedded systems, mobile-to-hardware communication, and rapid prototyping using low-cost components. It features a minimal, efficient hardware setup and simple code logic, making it ideal for scalable IoT applications or beginner robotics projects. It also demonstrates the seamless integration of IoT microcontrollers with mobile apps. Built using NodeMCU, motor driver, and MIT App Inventor shows how human-robot communication doesn't need to be complicated whatsoever.
 ---
 
 ##  Features
